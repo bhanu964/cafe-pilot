@@ -3,18 +3,23 @@
 > **Autonomous AI Cafe Operations & Natural Language Order Assistant**  
 > *Deterministic Pricing Governance • Sub-Second LLM Inference • Real-Time Operational Telemetry*
 
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Site-success?style=for-the-badge&logo=vercel)](https://cafe-pilot-liwltlz4q-bhanu-s-projects-01cf123c.vercel.app/)
+
 [![React 19](https://img.shields.io/badge/React-19.2-blue?logo=react)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-8.3-646CFF?logo=vite)](https://vitejs.dev/)
-[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)](https://temporary-fleet-mauve-g7nn0jf.vercel.app)
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)](https://cafe-pilot-liwltlz4q-bhanu-s-projects-01cf123c.vercel.app/)
 [![Groq LPU](https://img.shields.io/badge/Inference-Groq%20LPU%20%7C%20xAI-F55036?logo=fastapi)](https://groq.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Security: Server-Side](https://img.shields.io/badge/Security-Server--Side%20Key%20Isolation-success)](#security--architecture)
 
 ---
 
-### 🌐 Live Deployment
-- **Live Application URL**: [https://temporary-fleet-mauve-g7nn0jf.vercel.app](https://temporary-fleet-mauve-g7nn0jf.vercel.app)
-- **One-Click Vercel Deploy**: [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/bhanu964/cafe-pilot)
+### 🌐 Evaluator Quick Access (Live Production App)
+
+> 🔗 **Live Demo URL**: **[https://cafe-pilot-liwltlz4q-bhanu-s-projects-01cf123c.vercel.app/](https://cafe-pilot-liwltlz4q-bhanu-s-projects-01cf123c.vercel.app/)**  
+> *Evaluators and reviewers can immediately test natural language orders and operations intelligence live on Vercel without local setup.*
+
+- **One-Click Deploy**: [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/bhanu964/cafe-pilot)
 
 ---
 
